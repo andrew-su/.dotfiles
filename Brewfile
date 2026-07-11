@@ -1,3 +1,4 @@
+brew 'zsh'
 brew 'git'
 brew 'tree'
 brew 'neovim'
