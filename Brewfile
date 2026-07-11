@@ -1,5 +1,4 @@
 brew 'git'
-brew 'bash-completion@2'
 brew 'tree'
 brew 'neovim'
 brew 'fzf'
